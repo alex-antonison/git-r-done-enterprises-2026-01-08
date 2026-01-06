@@ -2,7 +2,7 @@
 
 This is an example project to practice learning git concepts.
 
-This project deploys a streamlit app at [https://git-r-done-enterprises-2026-01-06.streamlit.app/](https://git-r-done-enterprises-2026-01-06.streamlit.app/).
+This project deploys a streamlit app at [https://git-r-done-enterprises-2026-01-08.streamlit.app/](https://git-r-done-enterprises-2026-01-08.streamlit.app/).
 
 ## Setup
 
